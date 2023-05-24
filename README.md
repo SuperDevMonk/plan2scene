@@ -4,8 +4,6 @@ Official repository of the paper:
 
 __Plan2Scene: Converting floorplans to 3D scenes__
 
-[Madhawa Vidanapathirana](https://github.com/madhawav), [Qirui Wu](), [Yasutaka Furukawa](), [Angel X. Chang](https://github.com/angelxuanchang)
-, [Manolis Savva](https://github.com/msavva)
 
 [[Paper](https://arxiv.org/abs/2106.05375), [Project Page](https://3dlg-hcvc.github.io/plan2scene/), [Google Colab Demo](https://colab.research.google.com/drive/1lDkbfIV0drR1o9D0WYzoWeRskB91nXHq?usp=sharing)]
 
